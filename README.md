@@ -1,1 +1,2 @@
 # BarChartDemo
+复习一下自定义view，顺便用kotlin实战一下
